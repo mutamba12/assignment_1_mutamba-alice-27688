@@ -6,7 +6,7 @@
 |---|---|
 | Student Name | Mutamba Alice |
 | Student ID | 27688 |
-| Group | [YOUR GROUP] |
+| Group | B |
 | Course | PLSQL |
 | Assignment | Assignment One - Sunrise Supermarket |
 | Database Management System | Oracle Database |
