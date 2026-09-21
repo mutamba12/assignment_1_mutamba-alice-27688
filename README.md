@@ -250,7 +250,7 @@ Result
 The query returns the 15 orders in chronological order.
 
 ### Screenshot
-![CTE Query Result](screenshots/CTE1.PNG)
+![CTE Query Result](CTE1.PNG)
 
 
 
