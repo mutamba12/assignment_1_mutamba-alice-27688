@@ -250,7 +250,7 @@ Result
 The query returns the 15 orders in chronological order.
 
 ### Screenshot
-![CTE Query Result](CTE1.PNG)
+![CTE Query Result](assignment_1_mutamba-alice-27688/CTE1.PNG)
 
 
 
