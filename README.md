@@ -250,7 +250,9 @@ Result
 The query returns the 15 orders in chronological order.
 
 ### Screenshot
-db1.PNG
+![CTE Query Result](screenshots/CTE1.PNG)
+
+
 
 
 10. JOIN Query 2: Order Items and Products
