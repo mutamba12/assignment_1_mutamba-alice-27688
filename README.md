@@ -251,8 +251,8 @@ The query returns the 15 orders in chronological order.
 
 ### Screenshot
 
-![JOIN Query 2 Result](screenshots/query2.png)
-![JOIN Query 2 Result](screenshots/query2.2.png)
+<img width="956" height="485" alt="query2" src="https://github.com/user-attachments/assets/a259357e-ae4e-41fc-9ec7-c5c2f954ab9d" />
+
 
 10. JOIN Query 2: Order Items and Products
 SQL Query
