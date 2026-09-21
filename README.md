@@ -392,7 +392,7 @@ Business Interpretation
 This analysis identifies customers with higher spending levels in the sample data.
 
 The supermarket can use this information to study customer purchasing behavior and understand which customers contribute more to sales revenue.
-![image alt] (<img width="956" height="491" alt="CTE1" src="https://github.com/user-attachments/assets/9cad9eb0-8756-4693-8adf-700e9e4f0198" />)
+![image alt] ("https://github.com/user-attachments/assets/9cad9eb0-8756-4693-8adf-700e9e4f0198" />)
 13. Window Functions
 
 Window functions allow calculations to be performed across related rows without combining those rows into one result.
